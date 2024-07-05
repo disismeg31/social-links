@@ -1,0 +1,9 @@
+
+.btn-transition{
+    transition: ease-in;
+}
+
+
+.btn-transition:hover{
+ transition-duration: 0.5s;
+}
