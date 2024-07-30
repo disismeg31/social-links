@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com](https://disismeg31.github.io/social-links/)
+- Live Site URL: [Live](https://disismeg31.github.io/social-links/)
 
 ### Built with
 
